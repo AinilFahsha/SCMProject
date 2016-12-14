@@ -9,3 +9,5 @@ Expected Pipelines:
 - Continuously deploy application to preferred environment (Development, Production, or Staging or QA).
 - Rollback to preferred version if anything goes wrong.
 - Baselines and dashboard is essential.
+
+-try control changes
